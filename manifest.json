@@ -1,0 +1,17 @@
+{
+  "name": "XDosh",
+  "short_name": "XDosh",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation":"portrait",
+  "dir":"auto",
+  "lang":"en-US",
+  "prefer_related_applications":false,
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Cell coin",
+  "icons": [
+  {    "src": "./gfx/ylogo192.png",   "sizes": "192x192",  "type": "image/png"  },
+  {    "src": "./gfx/ylogo512.png",   "sizes": "512x512",  "type": "image/png","purpose": "any maskable"  }
+  ]
+}
